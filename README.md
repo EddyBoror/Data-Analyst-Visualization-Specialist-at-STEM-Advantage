@@ -20,9 +20,11 @@ Campuses:
 
 # Data Sources
 
-CSU Data: TThe data utilized for the analysis and cleaning originates from the CSU data center's statistical reports, which specifically concentrate on undergraduate and graduate data
+CSU Data: The data utilized for the analysis and cleaning originates from the CSU data center's statistical reports, which specifically concentrate on undergraduate and graduate data
   - [Download here][(https://data.lacity.org/Public-Safety/Arrest-Data-from-2020-to-Present/amvf-fr72/about_data)](https://www.calstate.edu/data-center/institutional-research-analyses/Pages/reports-and-analytics.aspx)
   - Filter: College Year | CSU Undergraduate and Graduate Degrees Granted | Year: 2010 - 2023
+
+<img src="https://github.com/EddyBoror/Data-Analyst-Visualization-Specialist-at-STEM-Advantage/blob/Analysis-Projects/CSU%20Data.JPG"  width="1700" height="550" />
 
 
 <br>
@@ -36,10 +38,10 @@ CSU Data: TThe data utilized for the analysis and cleaning originates from the C
 
 # Data Cleaning/ Preparation
 
-In the initial data preparation phase, I performed the following tasks on Excel:
+In the initial data preparation phase, I performed the following tasks in Excel:
 
-1. Data loading and extracting from original CSU Dataset
-   - 
+1. Data loading and extracting from the original CSU Dataset
+   - <img src="https://github.com/EddyBoror/Data-Analyst-Visualization-Specialist-at-STEM-Advantage/blob/Analysis-Projects/Dataset_Sample.JPG"  width="1700" height="750" />
 3. Handling missing values.
 4. Data cleaning and formatting.
 
