@@ -3,8 +3,9 @@
 <img src="https://github.com/EddyBoror/Data-Analyst-Visualization-Specialist-at-STEM-Advantage/blob/Analysis-Projects/stem_advantage_cover.jpg" width="1700" height="250" />
 
 # Project Overview
+STEM Advantage (SA) is seeking assistance extracting, utilizing, and presenting publicly accessible data from CSU (California State University) to extract relevant information to show potential donors. SA's chief goal is to acquire funding from corporations and foundations to support the enrollment of ethnic minority, female, and first-generation students at CSU.
 
-In collaboration with the NVIDIA team and STEM Advantage, I extracted data from the CSU data center, focusing specifically on STEM-related majors across eight designated CSU campuses participating in the STEM Advantage Scholar Program. The scope of the project spanned from 2012 to 2023.
+Collaborating with the NVIDIA team and STEM Advantage, I extracted data from the CSU data center, focusing specifically on STEM-related majors across eight designated CSU campuses participating in the STEM Advantage Scholar Program. The scope of the project spanned from 2012 to 2023.
 
 Campuses:
 - Cal Poly Pomona
