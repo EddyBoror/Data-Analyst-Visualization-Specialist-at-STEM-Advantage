@@ -41,7 +41,10 @@ CSU Data: The data utilized for the analysis and cleaning originates from the CS
 In the initial data preparation phase, I performed the following tasks in Excel:
 
 1. Data loading and extracting from the original CSU Dataset
-   - <img src="https://github.com/EddyBoror/Data-Analyst-Visualization-Specialist-at-STEM-Advantage/blob/Analysis-Projects/Dataset_Sample.JPG"  width="1700" height="750" />
+<img src="https://github.com/EddyBoror/Data-Analyst-Visualization-Specialist-at-STEM-Advantage/blob/Analysis-Projects/Dataset_Sample.JPG"  width="1700" height="750" />
+- Downloaded CSU Dataset CSV file comprising 23 CSU system-wide campuses.
+- The dataset included pivot tables and multiple worksheets containing varied information on Gender, Age, Campuses, disciplines, majors, and ethnicity.
+- Extracted data pertaining to the eight CSU campuses targeted by the STEM Advantage organization, focusing on STEM major information to ensure accuracy in project analysis.
 3. Handling missing values.
 4. Data cleaning and formatting.
 
