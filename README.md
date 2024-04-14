@@ -17,7 +17,16 @@ Campuses:
 - Cal State San Marcos
 - San Diego State University
 
-<br>
+<be>
+
+# Issues
+
+- SA’s previous Tableau resource stopped collecting data in 2022. 
+- CSU’s public website hosts data visualizations covering all student demographics. However, the lack of transparency -regarding the data source constrains the potential for thorough data analysis.
+- The CSU public website provides raw data without filtering based on STEM majors or demographic key performance indicators (KPIs).
+
+
+
 
 # Data Sources
 
@@ -61,13 +70,12 @@ In the initial data preparation phase, I performed the following tasks in Excel:
 - Created new columns for "Discipline" and "Major," specifically encompassing three STEM categories: Engineering, Information Sciences, and Mathematics.
 - <img src="https://github.com/EddyBoror/Data-Analyst-Visualization-Specialist-at-STEM-Advantage/blob/Analysis-Projects/major_fixes.JPG" width="1700" height="750" />
 
-
 <br>
 
 # Exploratory Data Analysis
 
-### Python Analysis
-- Please check here for my cleaning, analysis, and visualization using [Python](https://github.com/EddyBoror/Los-Angeles-County-Arrest-Data-Analysis/blob/main/Final%20Cleaned%20Arrest%20Dataset.ipynb) libraries.
+### Excel (Non-Technical Data Analysis & Visualization) 
+- 
 
 ### Geospatial Crime Analysis:
 
