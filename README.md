@@ -78,6 +78,8 @@ In the initial data preparation phase, I performed the following tasks in Excel:
 - Created a worksheet named "Undergraduate Degree Granted," which includes data on students earning their undergraduate degrees across eight campuses. It features pivot charts and line charts with filters, enabling STEM Advantage to pinpoint specific years and campuses for their review.
 
 
+
+
 ### Geospatial Crime Analysis:
 
   - Explore trends in arrest frequencies across diverse locations on a geographic map.
