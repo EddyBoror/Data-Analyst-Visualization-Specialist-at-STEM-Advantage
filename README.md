@@ -5,7 +5,7 @@
 # Project Overview
 STEM Advantage (SA) is seeking assistance extracting, utilizing, and presenting publicly accessible data from CSU (California State University) to extract relevant information to show potential donors. SA's chief goal is to acquire funding from corporations and foundations to support the enrollment of ethnic minority, female, and first-generation students at CSU.
 
-Collaborating with the NVIDIA team and STEM Advantage, I extracted data from the CSU data center, focusing specifically on STEM-related majors across eight designated CSU campuses participating in the STEM Advantage Scholar Program. The scope of the project spanned from 2012 to 2023.
+Collaborating with the NVIDIA team and STEM Advantage, I extracted data from the CSU data center, focusing specifically on STEM-related majors across eight designated CSU campuses participating in the STEM Advantage Scholar Program. The scope of the project spanned from 2012 to 2023. Lastly, focus on ethnicity and first-generation status, specifically targeting Hispanic/Latino and African American students.
 
 Campuses:
 - Cal Poly Pomona
@@ -42,19 +42,25 @@ CSU Data: The data utilized for the analysis and cleaning originates from the CS
 In the initial data preparation phase, I performed the following tasks in Excel:
 
 1. Data loading and extracting from the original CSU Dataset
-- <img src="https://github.com/EddyBoror/Data-Analyst-Visualization-Specialist-at-STEM-Advantage/blob/Analysis-Projects/Dataset_Sample.JPG"  width="1700" height="750" />
+- <img src="https://github.com/EddyBoror/Data-Analyst-Visualization-Specialist-at-STEM-Advantage/blob/Analysis-Projects/Dataset_Sample.JPG" width="1700" height="750" />
 - Downloaded CSU Dataset CSV file comprising 23 CSU system-wide campuses.
 - The dataset included pivot tables and multiple worksheets containing varied information on Gender, Age, Campuses, disciplines, majors, and ethnicity.
 - Extracted data pertaining to the eight CSU campuses targeted by the STEM Advantage organization, focusing on STEM major information to ensure accuracy in project analysis.
-  
+  <br>
+  <br>
+  <br>
 2. Data formatting
-- The original CSU dataset included worksheets that were irrelevant to the project's objectives. Consequently, I created a new worksheet categorized by campuses and descriptions to streamline the data for analysis.
-  
-3.Data Transformation
-- Adjusted the worksheet to include a new "Zipcode" column alongside the existing "Campuses" column to enhance future visualization capabilities.
--  
+- The original CSU dataset included worksheets irrelevant to the project's objectives. Consequently, I created a new worksheet categorized by campuses and descriptions to streamline the data for analysis.
+<br>
+<br>
+<br>
 
-   
+3. Data Transformation
+- Adjusted the worksheet to include a new "Zipcode" column alongside the existing "Campuses" column to enhance future visualization capabilities.
+-  Grouped other ethnicities not falling under the two targeted objectives into a category labeled "Others" to ensure accurate analysis
+- Created new columns for "Discipline" and "Major," specifically encompassing three STEM categories: Engineering, Information Sciences, and Mathematics.
+- <img src="https://github.com/EddyBoror/Data-Analyst-Visualization-Specialist-at-STEM-Advantage/blob/Analysis-Projects/major_fixes.JPG" width="1700" height="750" />
+
 
 <br>
 
