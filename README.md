@@ -47,8 +47,14 @@ In the initial data preparation phase, I performed the following tasks in Excel:
 - The dataset included pivot tables and multiple worksheets containing varied information on Gender, Age, Campuses, disciplines, majors, and ethnicity.
 - Extracted data pertaining to the eight CSU campuses targeted by the STEM Advantage organization, focusing on STEM major information to ensure accuracy in project analysis.
   
-3. Handling missing values.
-4. Data cleaning and formatting.
+2. Data formatting
+- The original CSU dataset included worksheets that were irrelevant to the project's objectives. Consequently, I created a new worksheet categorized by campuses and descriptions to streamline the data for analysis.
+  
+3.Data Transformation
+- Adjusted the worksheet to include a new "Zipcode" column alongside the existing "Campuses" column to enhance future visualization capabilities.
+-  
+
+   
 
 <br>
 
