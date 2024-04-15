@@ -70,6 +70,7 @@ In the initial data preparation phase, I performed the following tasks in Excel:
 - Created new columns for "Discipline" and "Major," specifically encompassing three STEM categories: Engineering, Information Sciences, and Mathematics.
 - <img src="https://github.com/EddyBoror/Data-Analyst-Visualization-Specialist-at-STEM-Advantage/blob/Analysis-Projects/major_fixes.JPG" width="1700" height="750" />
 
+
 <br>
 
 # Exploratory Data Analysis
