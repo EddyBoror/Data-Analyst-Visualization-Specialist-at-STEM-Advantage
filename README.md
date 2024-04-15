@@ -96,15 +96,17 @@ Gender Distribution by Discipline Category:
 
 Campus Comparison:
 - Pomona appears to grant the highest number of degrees across all disciplines, with particularly high numbers in Engineering and Information Sciences.
-- Dominguez Hills has the lowest total number of degrees granted across all disciplines.
+- Dominguez Hills has the lowest number of degrees granted across all disciplines.
 
-### Demographic Analysis:
-  - Are certain age groups or genders more frequently involved in arrests?
+Insight on Female Representation:
+- There needs to be more female representation in Engineering across all campuses, with significantly lower numbers than males. This indicates potential areas for improvement in promoting diversity and inclusion in STEM fields.
 
-### Arrest Type Breakdown::
-  - What is the distribution of arrest types (e.g., misdemeanor, felony) in the dataset?
 
-<img src="https://github.com/EddyBoror/Los-Angeles-County-Arrest-Data-Analysis/blob/main/Gender%20Age%20Arrest.png" width="1000" height="700" />
+### Tableau Dashboard
+https://github.com/EddyBoror/Data-Analyst-Visualization-Specialist-at-STEM-Advantage/assets/61037075/bdae9ffd-db08-41cd-b4b7-fd47c0fefc58
+- I've developed a Tableau Dashboard intended for use on the STEM Advantage website, showcasing potential donors' statistics categorized by STEM discipline, year, and gender. This dashboard will facilitate the creation of a narrative highlighting the areas of focus within CSU served by the organization and the potential impact of donors' contributions on students enrolled in the scholar program.
+
+
 
 <br>
 
