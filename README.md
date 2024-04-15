@@ -57,10 +57,8 @@ In the initial data preparation phase, I performed the following tasks in Excel:
 - Extracted data pertaining to the eight CSU campuses targeted by the STEM Advantage organization, focusing on STEM major information to ensure accuracy in project analysis.
   <br>
   <br>
-  <br>
 2. Data formatting
 - The original CSU dataset included worksheets irrelevant to the project's objectives. Consequently, I created a new worksheet categorized by campuses and descriptions to streamline the data for analysis.
-<br>
 <br>
 <br>
 
@@ -68,8 +66,6 @@ In the initial data preparation phase, I performed the following tasks in Excel:
 - Adjusted the worksheet to include a new "Zipcode" column alongside the existing "Campuses" column to enhance future visualization capabilities.
 -  Grouped other ethnicities not falling under the two targeted objectives into a category labeled "Others" to ensure accurate analysis
 - Created new columns for "Discipline" and "Major," specifically encompassing three STEM categories: Engineering, Information Sciences, and Mathematics.
-- <img src="https://github.com/EddyBoror/Data-Analyst-Visualization-Specialist-at-STEM-Advantage/blob/Analysis-Projects/major_fixes.JPG" width="1700" height="750" />
-
 
 <br>
 
