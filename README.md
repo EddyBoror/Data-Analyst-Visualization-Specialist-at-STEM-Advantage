@@ -106,22 +106,9 @@ Insight on Female Representation:
 https://github.com/EddyBoror/Data-Analyst-Visualization-Specialist-at-STEM-Advantage/assets/61037075/bdae9ffd-db08-41cd-b4b7-fd47c0fefc58
 - I've developed a Tableau Dashboard intended for use on the STEM Advantage website, showcasing potential donors' statistics categorized by STEM discipline, year, and gender. This dashboard will facilitate the creation of a narrative highlighting the areas of focus within CSU served by the organization and the potential impact of donors' contributions on students enrolled in the scholar program.
 
-
-
 <br>
 
-# Data Statistical Summary
-
-- The dataset primarily consists of "BOOKING" entries, indicating that a significant portion of the records corresponds to booking-related activities.
-
-- The dataset records 3,772 instances of the common arrest time, around 1:00 PM, indicating a concentrated period for law enforcement activity.
-
-- The most common area for arrests is "Rampart," with 18,632 occurrences, indicating a higher concentration of law enforcement activities in this region.
-
-- The dataset indicates a higher frequency of male persons involved in arrests due to the majority of males (202,282 occurrences). Furthermore, "H," which has been recorded 131,366 times, is the most often occurring descent code, suggesting a concentration of arrests involving people of Hispanic heritage.
 
 # Conclusion Analysis
 
-The analysis of this data can be helpful for both people in the community and law enforcement. For pedestrians, it gives insights into when and where arrests commonly happen, helping them make informed decisions about their safety. Understanding the patterns in arrests, like the higher frequency for males and individuals of Hispanic heritage, can also contribute to a better awareness of law enforcement interactions.
-
-Law enforcement can use the data to find patterns in the locations, timeframes, and kinds of charges associated with arrests. This data allows resources to be allocated more effectively and total operational effectiveness can be raised. Law enforcement can improve its tactics and procedures by better understanding the most frequent charges and the typical outcomes of arrests. Ultimately, this data analysis encourages safety and openness by supporting a more knowledgeable and cooperative interaction between the community and law enforcement.
+Overall, I thoroughly enjoyed working on this project, especially as a STEM Advantage student scholar member. The organization has been instrumental in supporting my career development by providing scholarship funding, networking opportunities, and opening doors to organizations that actively support students like myself in entering the tech space. I hope this project offers valuable insights to those interested in data analysis and the art of storytelling. Moving forward, the STEM Advantage team will utilize the non-technical Excel portion for future endeavors, and I've established a knowledge base system detailing how to update the worksheets with new yearly information sourced from the CSU database website.
