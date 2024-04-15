@@ -77,6 +77,7 @@ In the initial data preparation phase, I performed the following tasks in Excel:
 ### Excel (Non-Technical Data Analysis & Visualization) 
 - Created a worksheet named "Undergraduate Degree Granted," which includes data on students earning their undergraduate degrees across eight campuses. It features pivot charts and line charts with filters, enabling STEM Advantage to pinpoint specific years and campuses for their review.
 
+![EXCEL_f8KVcfr5s9](https://github.com/EddyBoror/Data-Analyst-Visualization-Specialist-at-STEM-Advantage/assets/61037075/0b1f065a-0b1a-4d4a-9ec2-84071ec5868b)
 
 
 
