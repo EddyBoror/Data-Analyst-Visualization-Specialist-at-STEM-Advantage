@@ -74,18 +74,29 @@ In the initial data preparation phase, I performed the following tasks in Excel:
 
 # Exploratory Data Analysis
 
-### Excel (Non-Technical Data Analysis & Visualization) 
+### Excel 1 (Non-Technical Data Analysis & Visualization) 
 - Created a worksheet named "Undergraduate Degree Granted," which includes data on students earning their undergraduate degrees across eight campuses. It features pivot charts and line charts with filters, enabling STEM Advantage to pinpoint specific years and campuses for their review.
 
 ![EXCEL_f8KVcfr5s9](https://github.com/EddyBoror/Data-Analyst-Visualization-Specialist-at-STEM-Advantage/assets/61037075/0b1f065a-0b1a-4d4a-9ec2-84071ec5868b)
 
+- Campus Comparison: CSU Fullerton consistently grants the highest number of degrees throughout the years, followed by CSU Long Beach and CSU Los Angeles. 
 
+- Overall Growth: The total number of degrees granted by CSU has steadily increased over the years, with a notable increase from around 36,500 in 2011-12 to over 57,500 in 2022-23.
 
-### Geospatial Crime Analysis:
+### Excel 2 (Non-Technical Data Analysis & Visualization) 
 
   - Explore trends in arrest frequencies across diverse locations on a geographic map.
 
-<img src="https://github.com/EddyBoror/Los-Angeles-County-Arrest-Data-Analysis/blob/main/Geo%20City.png" width="1000" height="700" />
+![EXCEL_gLA0k4uVha](https://github.com/EddyBoror/Data-Analyst-Visualization-Specialist-at-STEM-Advantage/assets/61037075/03f4bced-0fd5-4ec7-9fac-000e1cbb9cbb)
+
+Gender Distribution by Discipline Category:
+- Engineering: There is a significant gender disparity, with more males (31,713) than females (6,548) across all campuses.
+- Information Sciences: The gender distribution is more balanced, with 12,902 males and 2,209 females.
+- Mathematics: There are more males (2,822) than females (2,321).
+
+Campus Comparison:
+- Pomona appears to grant the highest number of degrees across all disciplines, with particularly high numbers in Engineering and Information Sciences.
+- Dominguez Hills has the lowest total number of degrees granted across all disciplines.
 
 ### Demographic Analysis:
   - Are certain age groups or genders more frequently involved in arrests?
