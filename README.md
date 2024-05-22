@@ -88,7 +88,7 @@ In the initial data preparation phase, I performed the following tasks in Excel:
 
 Gender Distribution by Discipline Category:
 - Engineering: There is a significant gender disparity, with more males (31,713) than females (6,548) across all campuses.
-- Information Sciences: The gender distribution is more balanced, with 12,902 males and 2,209 females.
+- Information Sciences: The gender distribution is more balanced, with 2,902 males and 2,209 females.
 - Mathematics: There are more males (2,822) than females (2,321).
 
 Campus Comparison:
