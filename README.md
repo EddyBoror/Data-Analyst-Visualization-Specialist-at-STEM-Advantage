@@ -102,6 +102,7 @@ Insight on Female Representation:
 ### Tableau Dashboard
 https://github.com/EddyBoror/Data-Analyst-Visualization-Specialist-at-STEM-Advantage/assets/61037075/bdae9ffd-db08-41cd-b4b7-fd47c0fefc58
 - I've developed a Tableau Dashboard intended for use on the STEM Advantage website, showcasing potential donors' statistics categorized by STEM discipline, year, and gender. This dashboard will facilitate the creation of a narrative highlighting the areas of focus within CSU served by the organization and the potential impact of donors' contributions on students enrolled in the scholar program.
+- Please see the Dashboard on my Tableau Public Page [here](https://public.tableau.com/app/profile/eddy.boror/viz/DEMOSTEMADVANTAGE/Dashboard1)
 
 <br>
 
